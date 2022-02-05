@@ -2,7 +2,9 @@
 
 Hello, I am _Avirup Ghosh_, a self-taught web designer seeking to launch a career building web applications and services. I In recent days I am primarily focusing on `React` and `Next.JS`.
 
-### Programing Languages and Tools
+I recently learned TypeScript and fell in love with it. Most of my recent repositories are written in TypeScript.
+
+### Programming Languages and Tools
 
 ![react][sh_react]
 ![js][sh_js]
@@ -23,13 +25,12 @@ Hello, I am _Avirup Ghosh_, a self-taught web designer seeking to launch a caree
 🌟 Contribute More
 
 ### Blogs
+
 - [Sign GIT commits with GPG key](./blogs/sign-git-commits-with-gpg.md)
 - [Use PNPM instead of NPM](./blogs/use-pnpm-instead-of-npm.md)
 
-Follow me if you like contentents.
-
-[sh_react]:https://img.shields.io/badge/-React-61DBFB?labelColor=black&logo=react&logoColor=61DBFB
-[sh_js]:https://img.shields.io/badge/-Javascript-F0DB4F?labelColor=black&logo=javascript&logoColor=F0DB4F
-[sh_ts]:https://img.shields.io/badge/-Typescript-007acc?labelColor=black&logo=typescript&logoColor=007acc
-[sh_sass]:https://img.shields.io/badge/-Sass-pink?labelColor=black&logo=sass&logoColor=pink
-[sh_php]:https://img.shields.io/badge/-PHP-6f67b6?labelColor=black&logo=php&logoColor=9c98c2
+[sh_react]: https://img.shields.io/badge/-React-61DBFB?labelColor=black&logo=react&logoColor=61DBFB
+[sh_js]: https://img.shields.io/badge/-Javascript-F0DB4F?labelColor=black&logo=javascript&logoColor=F0DB4F
+[sh_ts]: https://img.shields.io/badge/-Typescript-007acc?labelColor=black&logo=typescript&logoColor=007acc
+[sh_sass]: https://img.shields.io/badge/-Sass-pink?labelColor=black&logo=sass&logoColor=pink
+[sh_php]: https://img.shields.io/badge/-PHP-6f67b6?labelColor=black&logo=php&logoColor=9c98c2
