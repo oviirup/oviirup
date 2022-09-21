@@ -2,12 +2,15 @@
 
 Hello, I am **Avirup Ghosh**, a self-taught web designer seeking to launch a career in building web applications and services. Though my skills include PHP, JavaScript, TypeScript, SASS and a few more, I primarily focus on `React` and `Next.JS`.
 
+You are always welcome to my personal website <https://avirup-dev.vercel.app> and have a look at what I do in practice.
+
 ### My Fiverr gigs
 
 I work as a freelancer on [Fiverr][fiverr_profile]. Though I am new to Fiverr my work is no less than professional grade. you can take a look at my profile [here][fiverr_profile].
 
-✨ [Build a responsive NextJS MDX blog](https://www.fiverr.com/graygalaxy/build-a-responsive-blog-with-next-js-and-mdx)\
-✨ [Build a custom browser extension](https://www.fiverr.com/graygalaxy/build-a-custom-browser-extension-tailored-for-your-need)
+✨ [Build a responsive NextJS MDX blog](https://www.fiverr.com/share/Ko1WzV)\
+✨ [Convert Figma, PSD, XD to NextJS application](https://www.fiverr.com/share/L01yk0)\
+✨ [Build a custom browser extension](https://www.fiverr.com/share/qlLGVg)
 
 ### Programming Languages and Tools
 
