@@ -1,9 +1,9 @@
 **Hi there,**
 
-I am _**Avirup** (ov)_, a dedicated web developer with a passion for crafting seamless web applications and services. My expertise spans various technologies, including PHP, JavaScript, TypeScript, SASS, and more. However, I specialize in React and Next.JS, leveraging these tools to create dynamic and efficient web solutions.
+I am _**Avirup** (ov)_, a dedicated web developer with a passion for crafting seamless web applications and services. My expertise spans various technologies, including PHP, JavaScript, TypeScript, SCSS, and more. However, I specialize in React and Next.JS, leveraging these tools to create dynamic and efficient web solutions.
 
 [<kbd> <br> Twitter 🡢 <br> </kbd>](https://twitter.com/oviirup)
-[<kbd> <br> Fiverr 🡢 <br> </kbd>](https://fiverr.com/graygalaxy)
+[<kbd> <br> Fiverr 🡢 <br> </kbd>](https://fiverr.com/oviirup)
 
 ### ✨ Services
 
@@ -33,6 +33,7 @@ I work as a freelancer and provide various services as follows.
 
 ### 🎉 Goals for 2024
 
+- [ ] Learn RUST
 - [ ] Create a SASS app
 - [ ] Create a Component library
 - [ ] Create a startup
