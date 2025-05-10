@@ -1,0 +1,19 @@
+[user]
+  name = Avirup Ghosh
+  username = oviirup
+  email =
+[init]
+  defaultBranch = main
+[core]
+  eol = lf
+  excludesfile = ~/.gitignore
+  ignorecase = false
+  editor = code --wait
+  autocrlf = false
+[safe]
+  directory = D:/Projects/*
+[filter "lfs"]
+  required = true
+  clean = git-lfs clean -- %f
+  smudge = git-lfs smudge -- %f
+  process = git-lfs filter-process
