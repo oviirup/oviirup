@@ -9,8 +9,6 @@ I focus on blending intuitive design with clean, performant code to craft smooth
 [<kbd> <br> Twitter 🡢 <br> </kbd>](https://twitter.com/oviirup)
 [<kbd> <br> LinkedIn 🡢 <br> </kbd>](https://linkedin.com/in/oviirup)
 
----
-
 ### 🖥️ My Tech Stack
 
 **Frontend:**  
@@ -23,7 +21,7 @@ I focus on blending intuitive design with clean, performant code to craft smooth
 **Backend:**  
 ![firebase](https://img.shields.io/badge/-Firebase-ffc400?labelColor=black&logo=firebase)
 ![prisma](https://img.shields.io/badge/-Prisma-2D3748?labelColor=black&logo=prisma)
-![node](https://img.shields.io/badge/-Node.js-339933?labelColor=black&logo=node.js)
+![node](https://img.shields.io/badge/-Node.js-333333?labelColor=black&logo=node.js)
 ![supabase](https://img.shields.io/badge/-Supabase-1c1c1c?labelColor=black&logo=supabase)
 ![sql](https://img.shields.io/badge/-SQL-4479A1?labelColor=black&logo=sqlite&logoColor=4479A1)
 
@@ -32,8 +30,6 @@ I focus on blending intuitive design with clean, performant code to craft smooth
 ![ts](https://img.shields.io/badge/-Typescript-007acc?labelColor=black&logo=typescript)
 ![golang](https://img.shields.io/badge/-Go-00ADD8?labelColor=black&logo=go)
 ![php](https://img.shields.io/badge/-PHP-6f67b6?labelColor=black&logo=php)
-
----
 
 ### 🎯 Goals for 2025
 
