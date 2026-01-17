@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "biomejs.biome",
+    "timgthomas.explorer-gitignore",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "redhat.vscode-yaml"
+  ]
+}

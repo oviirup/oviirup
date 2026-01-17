@@ -1,0 +1,19 @@
+{
+  "name": "epoch",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "prepare": "lefthook install",
+    "format": "biome format --write",
+    "lint": "biome lint"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2",
+    "@types/bun": "^1",
+    "lefthook": "^2",
+    "turbo": "^2",
+    "typescript": "^5"
+  }
+}
