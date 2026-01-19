@@ -1,0 +1,8 @@
+tests
+src
+tsconfig.json
+*.tsbuildinfo
+*.tgz
+
+# make sure dist folder is included
+!dist

@@ -2,7 +2,7 @@
   "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
   "files": {
     "ignoreUnknown": true,
-    "includes": ["**", "!node_modules", "!dist"]
+    "includes": ["**", "!**/node_modules", "!**/dist"]
   },
   "formatter": {
     "enabled": true,
@@ -10,7 +10,7 @@
   },
   "linter": {
     "enabled": true,
-    "includes": ["src", "!tests"],
+    "includes": ["src", "!**/tests"],
     "rules": {
       "recommended": true,
       "style": {
