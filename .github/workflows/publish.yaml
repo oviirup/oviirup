@@ -1,0 +1,29 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: 🟢 Setup Bun
+        uses: oven-sh/setup-bun@v2
+      - name: 🛠️ Install & Build
+        run: bun install
+      - name: 🚀 Create Pull Request & Publish
+        uses: changesets/action@v1
+        with:
+          publish: bun changeset publish
+          commit: "✅ chore: update version"
+          title: "✅ chore: update version"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
