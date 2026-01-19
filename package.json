@@ -9,7 +9,8 @@
     "format": "biome format --write",
     "lint": "turbo lint",
     "prepare": "lefthook install",
-    "test": "turbo test"
+    "test": "turbo test",
+    "typecheck": "turbo typecheck"
   },
   "devDependencies": {
     "@biomejs/biome": "^2",

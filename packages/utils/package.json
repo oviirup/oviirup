@@ -58,6 +58,7 @@
   "scripts": {
     "build": "bunchee --minify --no-sourcemap",
     "lint": "biome check",
-    "test": "bun test"
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
   }
 }
