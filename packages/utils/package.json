@@ -1,6 +1,6 @@
 {
   "name": "@oviirup/utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collection of common JavaScript / TypeScript utilities bt @oviirup",
   "repository": "https://github.com/oviirup/oviirup/tree/main/packages/utils",
   "license": "MIT",
