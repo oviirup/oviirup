@@ -1,14 +1,14 @@
-.DS_Store
-.idea
+# dependencies
 node_modules
-__*
+
+
+# debug
+*-debug.log*
+*-error.log*
 
 # local env files
-.env
-!.env.local
-!.env.*.local
+.env*
+!.env.example
 
-# temporary files
-*.cache
-*.temp.*
-*.bkp
+# typescript
+*.tsbuildinfo
