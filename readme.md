@@ -4,7 +4,7 @@ I am Avirup, OV in short, frontend developer and designer focused on building be
 
 I work mainly with React, Next.js, TypeScript, Node.js, and modern product tooling. I care about clean UX, solid engineering, and shipping work that holds up in production.
 
-[![LinkedIn](https://img.shields.io/badge/oviirup@gmail.com-20232a.svg?logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/oviirup@gmail.com-20232a.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X_/_Twitter-000.svg?style=for-the-badge)](https://twitter.com/oviirup)
 [![LinkedIn](https://img.shields.io/badge/linkedin-07b.svg?style=for-the-badge)](https://linkedin.com/in/oviirup)
 
